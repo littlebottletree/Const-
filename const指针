@@ -28,8 +28,3 @@ print(str);
 
 当参数是char *时不能接受const char *类型的参数，而当参数类型是const char *时，可以接受char *、const char *;也就是提高了代码的参数的可接受范围。
 
---------------------- 
-作者：Tonyswift 
-来源：CSDN 
-原文：https://blog.csdn.net/takejian/article/details/79751399 
-版权声明：本文为博主原创文章，转载请附上博文链接！
